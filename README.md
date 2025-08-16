@@ -1,12 +1,6 @@
 ## 🚀 Quick Sta## 🚀 Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/Myabyss000/not-a-chance.git
-cd not-a-chance
 
-# Make scripts executable
-chmod +x *.shbash
 # Clone the repository
 git clone https://github.com/Myabyss000/not-a-chance.git
 cd not-a-chance
