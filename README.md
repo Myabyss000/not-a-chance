@@ -1,19 +1,6 @@
-## 🚀 Quick Sta## 🚀 Quick Start
+# Not A Chance (Ethical Port Scanner)
 
-
-# Clone the repository
-git clone https://github.com/Myabyss000/not-a-chance.git
-cd not-a-chance
-
-# Make scripts executable
-chmod +x *.sh
-
-# Install nmap (if not already installed)
-sudo apt-get install nmap
-
-# Run a basic scan
-./port_scanner.sh 127.0.0.1
-```s://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)
 ![Shell](https://img.shields.io/badge/shell-bash-green.svg)
 ![Dependencies](https://img.shields.io/badge/dependency-nmap-red.svg)
@@ -36,12 +23,12 @@ This tool is designed exclusively for:
 - Use findings responsibly and ethically
 - **The authors are not responsible for any misuse of this tool**
 
-## � Quick Start
+## 🚀 Quick Start
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ethical-port-scanner.git
-cd ethical-port-scanner
+git clone https://github.com/Myabyss000/not-a-chance.git
+cd not-a-chance
 
 # Make scripts executable
 chmod +x *.sh
@@ -197,7 +184,7 @@ chmod +x port_scanner.sh
 $ ./port_scanner.sh -p 22,80,443 example.com
 
 ======================================================
-        ETHICAL PORT SCANNER v1.0
+        NOT A CHANCE (ETHICAL PORT SCANNER) v1.0
 ======================================================
 WARNING: Use only on systems you own or have explicit permission to test
 Credits: Uses nmap by Gordon Lyon (Fyodor) - https://nmap.org
@@ -320,6 +307,32 @@ sudo ./port_scanner.sh target.com
 - Always obtain proper authorization
 - Follow responsible disclosure practices
 - Use knowledge to improve security, not exploit it
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
+- Code of conduct
+- Development setup
+- Testing procedures  
+- Pull request process
+
+### Quick Contribution Steps
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit changes (`git commit -m 'Add amazing feature'`)
+4. Push to branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 🐛 Issues and Support
+
+- 🐛 **Bug reports**: [Open an issue](https://github.com/Myabyss000/not-a-chance/issues)
+- 💡 **Feature requests**: [Start a discussion](https://github.com/Myabyss000/not-a-chance/discussions)
+- 📚 **Documentation**: Check our [Wiki](https://github.com/Myabyss000/not-a-chance/wiki)
+- 🔒 **Security issues**: See [Security Policy](SECURITY.md)
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Myabyss000/not-a-chance&type=Date)](https://star-history.com/#Myabyss000/not-a-chance&Date)
 
 ## 🙏 Credits
 
