@@ -1,4 +1,4 @@
-# Ethical Port Scanner
+#not a chance
 ## 🚀 Quick Sta## 🚀 Quick Start
 
 ```bash
