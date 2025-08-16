@@ -1,4 +1,3 @@
-#not a chance
 ## 🚀 Quick Sta## 🚀 Quick Start
 
 ```bash
